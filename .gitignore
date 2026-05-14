@@ -1,4 +1,6 @@
+.venv/
 FER-2013.zip
+FER-2013/
 data/
 __pycache__/
 .ipynb_checkpoints/
